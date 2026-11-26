@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CI-only settings. Test fixture for BKLN-5197: the password below is fake. -->
+<settings>
+  <servers>
+    <server>
+      <id>corp-releases</id>
+      <username>ci-bot</username>
+      <password>FAKE-bkln5197-repo-password-NOT-REAL-41d2</password>
+    </server>
+  </servers>
+</settings>
